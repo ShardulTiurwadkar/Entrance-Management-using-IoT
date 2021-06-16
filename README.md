@@ -1,0 +1,2 @@
+# Entrance-Management-using-IoT
+The system mainly focuses the avoidance of direct contact of the user with the outsider, to eliminate any possibility that he, the user gets infected. In the vision of such cases, we have proposed a home safety entrance management system that uses face recognition to identify the visitor along with the interfaced sensors that measure the health statistics of the visitor. The system will pass on the identity and health stats of visitor to the owner by and decide whether to allow the visitor in or not.
