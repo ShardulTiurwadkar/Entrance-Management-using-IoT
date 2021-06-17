@@ -7,3 +7,6 @@ The objectives behind the project are as highlighted below:
 🔷 To study and analyze the systems which comprised of automation though communication over the internet.  
 🔷 To design an IoT based entrance management system that comprised of face recognition, temperature measurement to record the visitor’s identity and health status.  
 🔷 To develop the decision making algorithm that decides whether to open the door or not based on the visitor’s identity and health status  
+
+Portal to Allow or Deny Entries:
+https://shardultiurwadkar.github.io/Entrance-Management-using-IoT--Portal/
